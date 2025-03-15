@@ -1,0 +1,7 @@
+[{"name":"Мыло", "category": "hh", "price":"60", "quantity":"5","mfr": "СпивакЪ", "rating": "8", "type": "твердое", "code": "790228", "unit": "шт"},
+{"name":"Шампунь", "category": "hh", "price":"160", "quantity":"3", "mfr": "СпивакЪ", "rating": "8", "type": "от перхоти", "code": "792228", "unit": "шт"},
+{"name":"Гель для душа", "category": "hh", "price":"90", "quantity":"6", "mfr": "СпивакЪ", "rating": "9", "type": "женский", "code": "790128", "unit": "шт"},
+{"name":"Гель для душа", "category": "hh", "price":"90", "quantity":"4", "mfr": "Рецепты бабушки Агафьи", "rating": "5", "type": "женский", "code": "790128", "unit": "шт"},
+{"name":"Мыло", "category": "hh", "price":"70", "quantity":"5", "mfr": "Рецепты бабушки Агафьи", "rating": "9", "type": "жидкое", "code": "790229", "unit": "шт"},
+{"name":"Шампунь", "category": "hh", "price":"60", "quantity":"5", "mfr": "Рецепты бабушки Агафьи", "rating": "8", "type": "для окрашенных волос", "code": "790221", "unit": "шт"},
+{"name":"Бальзам для волос", "category": "hh", "price":"60", "quantity":"5", "mfr": "Рецепты бабушки Агафьи", "rating": "8", "type": "восстанавливающий", "code": "790278", "unit": "шт"}]

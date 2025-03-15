@@ -1,0 +1,10 @@
+[{"name":"Молоко", "category": "food", "price":"100", "quantity":"5", "mfr": "Домик в деревне", "rating": "8", "weight": "0.9", "code": "690228", "unit": "шт"},
+{"name":"Молоко", "category": "food", "price":"110", "quantity":"5", "mfr": "Можайское", "rating": "9", "weight": "0.9", "code": "690230", "unit": "шт"},
+{"name":"Творог", "category": "food", "price":"40", "quantity":"5", "mfr": "Домик в деревне", "rating": "7", "weight": "0.4", "code": "690229", "unit": "шт"},
+{"name":"Творог", "category": "food", "price":"35", "quantity":"5", "mfr": "Агуша", "rating": "8", "weight": "0.5", "code": "680228", "unit": "шт"},
+{"name":"Хлеб", "category": "food", "price":"77", "quantity":"5", "mfr": "Коломенский", "rating": "5", "weight": "0.3", "code": "692228", "unit": "шт"},
+{"name":"Хлеб", "category": "food", "price":"65", "quantity":"5", "mfr": "Черемушки", "rating": "5.6", "weight": "0.3", "code": "690328", "unit": "шт"},
+{"name":"Хлеб", "category": "food", "price":"75", "quantity":"5", "mfr": "Хлебный Дом", "rating": "4.7", "weight": "0.3", "code": "690238", "unit": "шт"},
+{"name":"Сыр", "category": "food", "price":"190", "quantity":"5", "mfr": "Брест-Литовск", "rating": "5", "weight": "0.4", "code": "687228", "unit": "шт"},
+{"name":"Картофель", "category": "food", "price":"69", "quantity":"5", "mfr": "Вектар", "rating": "7", "weight": "1", "code": "693228", "unit": "кг"},
+{"name":"Яблоки", "category": "food", "price":"100", "quantity":"5", "mfr": "Краснодар", "rating": "8", "weight": "1", "code": "691228", "unit": "кг"}]
